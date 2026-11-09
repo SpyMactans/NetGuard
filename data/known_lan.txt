@@ -1,0 +1,1 @@
+# Approved LAN device MAC addresses, one per line. Add via the dashboard's 'a' key or manually.

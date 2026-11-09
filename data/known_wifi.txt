@@ -1,0 +1,1 @@
+# Approved WiFi BSSIDs, one per line. Add via the dashboard's 'a' key or manually.
